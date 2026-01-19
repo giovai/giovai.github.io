@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Some text first
+
 # Who Am I?
 
 A Cloud Platform Engineer experienced in implementing cloud solutions with a focus on AWS services, platform engineering and Infrastructure as Code. Skilled in developing and maintaining CI/CD pipelines and monorepos, with strong background in e-commerce platforms and hands-on experience in GraphQL, TypeScript and event-driven systems. Currently expanding my skill set in Go and Kubernetes.
