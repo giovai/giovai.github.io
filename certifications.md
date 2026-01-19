@@ -16,4 +16,6 @@
 <dl>
   <dt>Bachelor of Science, Computer Science</dt>
   <dd>Technical University of Lodz, Poland, October 2008 - November 2013</dd>
-</dl>
+</dl><br><br>
+
+[Back](./)
