@@ -1,3 +1,6 @@
-title: Giovai
+title: Giovai's Homepage
 description: A little bit about my programming journey
 theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: https://github.com/giovai
