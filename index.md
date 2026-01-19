@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Some text first
+Welcome to my Github Pages.
 
 # Who Am I?
 
