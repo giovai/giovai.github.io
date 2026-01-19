@@ -14,7 +14,7 @@ With over a decade of experience in eCommerce, working for small and big consult
 
 Over the years, I have developed interest in DevOps practices and Platform Engineering. Next to my day-to-day application development responsibilities, I started to casually learn how is my code deployed. First on monolithic, Java/Spring projects using Jenkins, now on Typescript/IaC MACH (microservices) projects using Github Actions or Azure DevOps.
 
-**Take a look at my [experience](./resume.html).**
+**Take a look at my [experience](./experience.html).**
 
 ## Where Am I Going?
 
@@ -23,6 +23,8 @@ These days, I mainly focus on exploring Internal Developer Platform (IDP) concep
 In the future, I’d like to be able to use these skills in the Impact Sector and work On Purpose.
 
 ## Skills In a Nutshell
+
+**Take a look at my [certifications](./certifications.html).**
 
 ### Cloud
 
