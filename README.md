@@ -1,1 +1,3 @@
 # giovai.github.io
+
+A liitle bit about my programming journey...
